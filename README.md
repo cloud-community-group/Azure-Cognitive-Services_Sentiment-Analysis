@@ -51,9 +51,6 @@ Thank you for your contribution!
 - [Azure Cognitive Services documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
 - [Sentiment analysis overview](https://en.wikipedia.org/wiki/Sentiment_analysis)
 
-## Credits
-This repository was created by [Sudarsanam Bharath].
-
 ## Contributors
 - [Bharath](https://github.com/Bharath-tars)
 - [Mohammed Zaid](https://www.linkedin.com/in/mohammad-khan-461058231/)
@@ -66,3 +63,7 @@ We would like to extend our heartfelt gratitude to the following mentors who hav
 - [Anushka Saxena](https://github.com/SaxenaAnushka102)
 - [Arpita Das](https://github.com/Arpiiitaaa)
 Their expertise, feedback, and encouragement have been instrumental in helping us achieve our goals and create a successful project.
+
+
+## Credits
+This repository was created with ❤️ by ### Sudarsanam Bharath.
