@@ -49,12 +49,14 @@ Thank you for your contribution!
 
 ## Reference Links
 - [Azure Cognitive Services documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
-- [Sentiment analysis overview](https://en.wikipedia.org/wiki/Sentiment_analysis)
+- [Sentiment analysis overview](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview)
+- 
 
 ## Contributors
 - [Bharath](https://github.com/Bharath-tars)
 - [Mohammed Zaid](https://www.linkedin.com/in/mohammad-khan-461058231/)
-- [Gauranshi Gupta](ggauranshi-03)
+- [Anant Jain](hehe)
+- [Gauranshi Gupta](https://github.com/ggauranshi-03)
 
 ## Acknowledgments
 We would like to extend our heartfelt gratitude to the following mentors who have provided us with invaluable support and guidance throughout this project:
