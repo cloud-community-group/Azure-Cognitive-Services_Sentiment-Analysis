@@ -4,11 +4,11 @@ from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
 
 # Setting up your subscription key and endpoint for the Sentiment Analytics Cognitive service
-subscription_key = "your-subscription-key"
+api_key = "your-api-key"
 endpoint = "your-endpoint"
 
 # Authenticating the client
-credentials = AzureKeyCredential(subscription_key)
+credentials = AzureKeyCredential(api_key)
 client = TextAnalyticsClient(endpoint=endpoint, credential=credentials)
 
 #Defining the function to categorize the sentiment score
