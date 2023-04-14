@@ -2,7 +2,7 @@
 If you've come this far like got into [python_implementation](https://github.com/Cloud-Community-Group/Azure-Cognitive-Services_Sentiment-Analysis/tree/main/python_implementation) folder and reading this .md file, it shows that you're enthusiastic to get this project done.. well lets get going!!
 
 ## Introduction
-The Prequisites for this project divided into two parts:
+The Prequisites for this project are divided into two parts:
 - [Training a Sentiment Analysis model](https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-cognitive-services-sentiment)
 
 Involves feeding large amounts of labeled data (text and their corresponding sentiment) into a machine learning algorithm or a deep learning model to learn how to predict the sentiment of new, unseen text data.
