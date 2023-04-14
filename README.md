@@ -12,3 +12,7 @@ Azure Cognitive Services is a set of pre-built APIs and tools that enables devel
 # * decision-making capabilities.
 
 Azure Cognitive Services offers various APIs and services including Computer Vision, Face, Speech, Language Understanding (LUIS), Translator, Text Analytics, and many more. These APIs can be accessed through REST APIs or SDKs in popular programming languages such as C#, Java, Python, and Node.js. The service is available on a pay-per-use basis and can be easily integrated with Azure cloud services and other third-party platforms.
+
+## Reference Links
+- [Azure Cognitive Services documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
+- [Sentiment analysis overview](https://en.wikipedia.org/wiki/Sentiment_analysis)
