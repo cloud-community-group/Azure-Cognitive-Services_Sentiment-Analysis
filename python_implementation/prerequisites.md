@@ -13,3 +13,5 @@ Obtaining the necessary authentication keys or tokens that are required to acces
 - You can get going by refering through the hyperlinks provided above which is much sufficient to complete the pre works. 
 - Make sure that these steps are perfectly done otherwise they might take you into loopholes.
 - For advanced Learning you can refer to further more doc links which are present in above hyperlinked pages.
+
+### Now After Completing the above steps proceed to [sentiment-analysis.py](https://github.com/Cloud-Community-Group/Azure-Cognitive-Services_Sentiment-Analysis/blob/main/python_implementation/sentiment-analysis.py) file.
