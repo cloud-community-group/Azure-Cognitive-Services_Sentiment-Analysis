@@ -31,6 +31,9 @@ def analyze_sentiment():
     
     # Update the output label with the sentiment score and record it
     score = output_label.config(text=f"Sentiment score: {score:.2f}")
+    
+    #Calling the text score categoring fucntion
+    categorize_text(score)
 
 # Create the main window and set the title
 window = tk.Tk()
