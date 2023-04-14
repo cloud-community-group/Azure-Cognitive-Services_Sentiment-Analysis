@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter import ttk
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
 
