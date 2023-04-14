@@ -49,8 +49,7 @@ Thank you for your contribution!
 
 ## Reference Links
 - [Azure Cognitive Services documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
-- [Sentiment analysis overview](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview)
-- 
+- [Sentiment analysis overview](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview) 
 
 ## Contributors
 - [Bharath](https://github.com/Bharath-tars)
