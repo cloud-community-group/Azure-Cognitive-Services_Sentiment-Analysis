@@ -62,8 +62,9 @@ We would like to extend our heartfelt gratitude to the following mentors who hav
 - [Antariksh Pratham](https://github.com/APratham)
 - [Anushka Saxena](https://github.com/SaxenaAnushka102)
 - [Arpita Das](https://github.com/Arpiiitaaa)
+
 Their expertise, feedback, and encouragement have been instrumental in helping us achieve our goals and create a successful project.
 
 
 ## Credits
-This repository was created with ❤️ by ### Sudarsanam Bharath.
+This repository was created with ❤️ by Sudarsanam Bharath.
