@@ -13,6 +13,56 @@ Azure Cognitive Services is a set of pre-built APIs and tools that enables devel
 
 Azure Cognitive Services offers various APIs and services including Computer Vision, Face, Speech, Language Understanding (LUIS), Translator, Text Analytics, and many more. These APIs can be accessed through REST APIs or SDKs in popular programming languages such as C#, Java, Python, and Node.js. The service is available on a pay-per-use basis and can be easily integrated with Azure cloud services and other third-party platforms.
 
+## Getting Started
+Follow the steps below to get started with sentiment analysis using Azure Cognitive Services:
+
+### Prerequisites
+- Azure subscription
+- Azure Cognitive Services account
+Note : Students can apply for the Github Student Developer Pack where they can get access to exiting github content for free and not the least The Students can claim $100 dollar Azure credicts. [Click here to Apply](https://education.github.com/pack)
+
+### Step-by-Step Instructions
+1. Clone this repository to your local machine.
+2. Create a new Azure Cognitive Services account.
+3. Retrieve the API key and endpoint URL for your Cognitive Services account.
+4. Open the `sentiment-analysis.py` file in a text editor.
+5. Replace the `API_KEY` and `ENDPOINT_URL` placeholders with the values you retrieved in step 3.
+6. Save the `sentiment-analysis.py` file.
+7. Open a terminal or command prompt.
+8. Navigate to the directory where you cloned this repository.
+9. Run the `sentiment-analysis.py` script by executing the command `python sentiment-analysis.py`.
+10. Enter the text you want to analyze when prompted.
+
+The script will output the sentiment score for the provided text.
+
+### Contributing
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork this repository to your own GitHub account.
+2. Clone the repository to your local machine using `git clone https://github.com/your-username/sentiment-analysis-azure.git`.
+3. Create a new branch with a descriptive name using `git checkout -b branch-name`.
+4. Make your changes and commit them with a descriptive commit message using `git commit -m "your message here"`.
+5. Push your changes to your forked repository using `git push origin branch-name`.
+6. Create a pull request on the original repository and describe the changes you made.
+
+Thank you for your contribution!
+
 ## Reference Links
 - [Azure Cognitive Services documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
 - [Sentiment analysis overview](https://en.wikipedia.org/wiki/Sentiment_analysis)
+
+## Credits
+This repository was created by [Sudarsanam Bharath].
+
+## Contributors
+- [Bharath](https://github.com/Bharath-tars)
+- [Mohammed Zaid](https://www.linkedin.com/in/mohammad-khan-461058231/)
+- [Gauranshi Gupta](ggauranshi-03)
+
+## Acknowledgments
+We would like to extend our heartfelt gratitude to the following mentors who have provided us with invaluable support and guidance throughout this project:
+
+[Antariksh Pratham](https://github.com/APratham)
+[Anushka Saxena](https://github.com/SaxenaAnushka102)
+[Arpita Das](https://github.com/Arpiiitaaa)
+Their expertise, feedback, and encouragement have been instrumental in helping us achieve our goals and create a successful project.
