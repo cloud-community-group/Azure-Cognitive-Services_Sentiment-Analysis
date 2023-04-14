@@ -19,7 +19,7 @@ Follow the steps below to get started with sentiment analysis using Azure Cognit
 ### Prerequisites
 - Azure subscription
 - Azure Cognitive Services account
-Note : Students can apply for the Github Student Developer Pack where they can get access to exiting github content for free and not the least The Students can claim $100 dollar Azure credicts. [Click here to Apply](https://education.github.com/pack)
+#####Note : Students can apply for the Github Student Developer Pack where they can get access to exiting github content for free and not the least The Students can claim $100 dollar Azure credicts. [Click here to Apply](https://education.github.com/pack)
 
 ### Step-by-Step Instructions
 1. Clone this repository to your local machine.
@@ -62,7 +62,7 @@ This repository was created by [Sudarsanam Bharath].
 ## Acknowledgments
 We would like to extend our heartfelt gratitude to the following mentors who have provided us with invaluable support and guidance throughout this project:
 
-[Antariksh Pratham](https://github.com/APratham)
-[Anushka Saxena](https://github.com/SaxenaAnushka102)
-[Arpita Das](https://github.com/Arpiiitaaa)
+- [Antariksh Pratham](https://github.com/APratham)
+- [Anushka Saxena](https://github.com/SaxenaAnushka102)
+- [Arpita Das](https://github.com/Arpiiitaaa)
 Their expertise, feedback, and encouragement have been instrumental in helping us achieve our goals and create a successful project.
