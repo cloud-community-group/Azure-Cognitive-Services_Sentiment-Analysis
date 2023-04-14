@@ -40,17 +40,17 @@ window = tk.Tk()
 window.title("Sentiment Analysis")
 
 # Create the input field and label
-input_label = ttk.Label(window, text="Enter text:")
+input_label = tk.Label(window, text="Enter text:")
 input_label.pack(side="top", padx=10, pady=5)
 input_field = tk.Text(window, height=10, width=50)
 input_field.pack(side="top", padx=10, pady=5)
 
 # Create the analyze button and bind it to the analyze_sentiment function
-analyze_button = ttk.Button(window, text="Analyze", command=analyze_sentiment)
+analyze_button = tk.Button(window, text="Analyze", command=analyze_sentiment)
 analyze_button.pack(side="top", padx=10, pady=5)
 
 # Create the output label
-output_label = ttk.Label(window, text="")
+output_label = tk.Label(window, text="")
 output_label.pack(side="top", padx=10, pady=5)
 
 # Start the main event loop
