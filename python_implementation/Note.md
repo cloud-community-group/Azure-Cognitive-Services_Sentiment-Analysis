@@ -5,3 +5,5 @@ module in python. This really doesn't mean that you can't do more things with th
 a cool website, with rich UI that can take an entire csv file which consists of thousands of reviews.
 
 For Contributions refer to [ReadMe](https://github.com/Cloud-Community-Group/Azure-Cognitive-Services_Sentiment-Analysis/blob/main/README.md)
+
+# IDE - PYCHARM
