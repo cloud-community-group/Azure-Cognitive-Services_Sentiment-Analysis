@@ -25,7 +25,7 @@ Individuals can use sentiment analysis to analyze their social media feeds and u
 In conclusion, sentiment analysis is becoming an essential tool for businesses, organizations, and individuals to understand sentiment and make informed decisions based on the insights gained from it.
 
 ## What are Azure Cognitive Services?
-Azure Cognitive Services is a set of pre-built APIs and tools that enables developers to add intelligent features to their applications without requiring extensive knowledge of artificial intelligence (AI) or machine learning (ML) technologies. It provides a wide range of APIs and services that can be used to enhance applications with features such as:
+Azure Cognitive Service's is a set of pre-built APIs and tools that enables developers to add intelligent features to their applications without requiring extensive knowledge of artificial intelligence (AI) or machine learning (ML) technologies. It provides a wide range of APIs and services that can be used to enhance applications with features such as:
 - [natural language processing (NLP)](https://www.deeplearning.ai/resources/natural-language-processing/)
 - [speech recognition](https://www.ibm.com/in-en/topics/speech-recognition)
 - [image and video analysis](https://en.wikipedia.org/wiki/Image_analysis#:~:text=Image%20analysis%20or%20imagery%20analysis,a%20person%20from%20their%20face.)
