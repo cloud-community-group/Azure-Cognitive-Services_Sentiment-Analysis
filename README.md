@@ -53,7 +53,7 @@ Thank you for your contribution!
 
 ## Contributors
 - [Bharath](https://github.com/Bharath-tars)
-- [Mohammed Zaid](https://www.linkedin.com/in/mohammad-khan-461058231/)
+- [Mohammed Zaid](https://github.com/zee-1)
 - [Anant Jain](https://www.linkedin.com/in/anant-jain-bb49b9205/)
 - [Gauranshi Gupta](https://github.com/ggauranshi-03)
 
