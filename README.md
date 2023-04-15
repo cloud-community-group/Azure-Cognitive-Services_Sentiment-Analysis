@@ -4,7 +4,7 @@ Sentiment analysis using Azure Cognitive Services enables automatic identificati
 ## What is sentiment Analysis?
 Sentiment analysis is the process of analyzing text or speech to determine the emotional tone or attitude of the writer or speaker towards a particular topic, product, brand, or service. The purpose of sentiment analysis is to identify the sentiment or polarity of the text, whether it is positive, negative or neutral. Sentiment analysis is a common use case for natural language processing (NLP) and is used in various applications such as social media monitoring, customer feedback analysis, and market research. The analysis is typically performed using machine learning algorithms that can detect patterns in language that are associated with positive, negative, or neutral sentiment.
 
-## Importance of Sentiment Analysis
+## Importance of sentiment Analysis
 Sentiment analysis is the process of extracting subjective information from text data, which can be classified as positive, negative, or neutral. This analysis is becoming increasingly important for businesses, organizations, and individuals alike, for the following reasons:
 
 - ### Understanding Customer Feedback
