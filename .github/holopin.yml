@@ -1,0 +1,8 @@
+## Cloud Community Group is a community of cloud enthusiasts. Our work is for community purposes and is by definition public, including but not limited to scripts written by the team. However, you do have to understand that part of the functionality of certain features may not be public
+
+organization: cloudcommunitygroup # org name on holopin
+defaultSticker: clgi317qy31110fl7hgzobvvd # sticker ID
+stickers:
+  -
+    id: clgi317qy31110fl7hgzobvvd # sticker id
+    alias: cloud-bootcamp-2023 # shorthand-string
