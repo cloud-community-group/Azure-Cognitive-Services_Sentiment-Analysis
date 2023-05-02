@@ -5,4 +5,4 @@ defaultSticker: clgi317qy31110fl7hgzobvvd # sticker ID
 stickers:
   -
     id: clgi317qy31110fl7hgzobvvd # sticker id
-    alias: "cloud-bootcamp-2023" # shorthand-string
+    alias: cloud-bootcamp-2023 # shorthand-string
