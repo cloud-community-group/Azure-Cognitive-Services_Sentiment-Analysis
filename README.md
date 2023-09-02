@@ -65,11 +65,15 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Push your changes to your forked repository using `git push origin branch-name`.
 6. Create a pull request on the original repository and describe the changes you made.
 
+### Pricing Mechanism 
+
 Thank you for your contribution!
 
 ## Reference Links
 - [Azure Cognitive Services documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/)
-- [Sentiment analysis overview](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview) 
+- [Sentiment analysis overview](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/sentiment-opinion-mining/overview)
+- [Pricing of the sentiment analysis tool AZURE AI](https://azure.microsoft.com/en-in/pricing/details/cognitive-services/language-service/#pricing)
+- 
 
 ## Contributors
 - [Bharath](https://github.com/Bharath-tars)
@@ -88,4 +92,5 @@ Their expertise, feedback, and encouragement have been instrumental in helping u
 
 
 ## Credits
+Copyright @tars2k35
 This repository was created with ❤️ by Sudarsanam Bharath.
